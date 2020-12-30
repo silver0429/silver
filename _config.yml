@@ -17,10 +17,10 @@ lang: zh-CN
 title: Silver's Personl Website
 email:
 description:"Silver's Personl Website"
-baseurl:  "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
+baseurl:  "/Silver"# the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:  "silver"
+  name:  "Silver"
   twitter:
   picture:
 twitter_username:
